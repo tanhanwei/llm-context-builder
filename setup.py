@@ -8,12 +8,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="llm-context-builder",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Tan Han Wei",
+    author_email="tanhanwei90@gmail.com",
     description="Export any project to a single text file optimized for LLM context",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/llm-context-builder",
+    url="https://github.com/tanhanwei/llm-context-builder",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -52,8 +52,8 @@ setup(
     },
     keywords="llm context export project documentation ai",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/llm-context-builder/issues",
-        "Source": "https://github.com/yourusername/llm-context-builder",
-        "Documentation": "https://github.com/yourusername/llm-context-builder#readme",
+        "Bug Reports": "https://github.com/tanhanwei/llm-context-builder/issues",
+        "Source": "https://github.com/tanhanwei/llm-context-builder",
+        "Documentation": "https://github.com/tanhanwei/llm-context-builder#readme",
     },
 )
