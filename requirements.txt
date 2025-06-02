@@ -1,0 +1,6 @@
+click>=8.0.0
+colorama>=0.4.0
+pathspec>=0.10.0
+
+# Optional dependencies
+tiktoken>=0.4.0  # For token counting
